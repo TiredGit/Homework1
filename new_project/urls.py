@@ -22,4 +22,5 @@ urlpatterns = [
     path('', include('app_1.urls')),
     path('', include('app_2.urls')),
     path('', include('app_3.urls')),
+    path('', include('app_4.urls')),
 ]
